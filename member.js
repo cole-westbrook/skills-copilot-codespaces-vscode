@@ -1,0 +1,36 @@
+function skillsMember() {
+    var member = document.getElementById("member");
+    var memberSkills = document.getElementById("memberSkills");
+    var memberSkillsList = document.getElementById("memberSkillsList");
+    var memberSkillsList2 = document.getElementById("memberSkillsList2");
+    var memberSkillsList3 = document.getElementById("memberSkillsList3");
+    var memberSkillsList4 = document.getElementById("memberSkillsList4");
+    var memberSkillsList5 = document.getElementById("memberSkillsList5");
+    var memberSkillsList6 = document.getElementById("memberSkillsList6");
+    var memberSkillsList7 = document.getElementById("memberSkillsList7");
+    var memberSkillsList8 = document.getElementById("memberSkillsList8");
+    var memberSkillsList9 = document.getElementById("memberSkillsList9");
+    var memberSkillsList10 = document.getElementById("memberSkillsList10");
+    var memberSkillsList11 = document.getElementById("memberSkillsList11");
+    var memberSkillsList12 = document.getElementById("memberSkillsList12");
+    var memberSkillsList13 = document.getElementById("memberSkillsList13");
+    var memberSkillsList14 = document.getElementById("memberSkillsList14");
+    var memberSkillsList15 = document.getElementById("memberSkillsList15");
+    var memberSkillsList16 = document.getElementById("memberSkillsList16");
+    var memberSkillsList17 = document.getElementById("memberSkillsList17");
+    var memberSkillsList18 = document.getElementById("memberSkillsList18");
+    var memberSkillsList19 = document.getElementById("memberSkillsList19");
+    var memberSkillsList20 = document.getElementById("memberSkillsList20");
+    var memberSkillsList21 = document.getElementById("memberSkillsList21");
+    var memberSkillsList22 = document.getElementById("memberSkillsList22");
+    var memberSkillsList23 = document.getElementById("memberSkillsList23");
+    var memberSkillsList24 = document.getElementById("memberSkillsList24");
+    var memberSkillsList25 = document.getElementById("memberSkillsList25");
+    var memberSkillsList26 = document.getElementById("memberSkillsList26");
+    var memberSkillsList27 = document.getElementById("memberSkillsList27");
+    var memberSkillsList28 = document.getElementById("memberSkillsList28");
+    var memberSkillsList29 = document.getElementById("memberSkillsList29");
+    var memberSkillsList30 = document.getElementById("memberSkillsList30");
+    var memberSkillsList31 = document.getElementById("memberSkillsList31");
+    var memberSkillsList32 = document.getElementById("memberSkillsList32");
+}
